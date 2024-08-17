@@ -1,0 +1,20 @@
+.invisible {
+    display: none;
+    font-size: 8px;
+}
+
+.opened-eye {
+    display: none;
+}
+
+.closed-eye:hover {
+    display:inline-block;
+}
+
+.eyeActive {
+    display: none;
+}
+
+.eyeInActive {
+    display: none;
+}
